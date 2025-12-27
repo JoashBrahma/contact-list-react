@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+* {
+  font-family: monospace;
+}
+
+body {
+  background-color: black;
+  color: whitesmoke;
+}
